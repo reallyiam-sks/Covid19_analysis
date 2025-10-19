@@ -5,7 +5,7 @@ The project demonstrates SQL skills such as joins, aggregate functions, casting,
 
 ## Project Overview
 
-### The analysis explores:
+### The analysis explores: 
 
 * Global and country-level trends in COVID-19 cases, deaths, and vaccination rates.
 
